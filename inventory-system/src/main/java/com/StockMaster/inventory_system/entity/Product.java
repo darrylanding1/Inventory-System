@@ -1,7 +1,7 @@
 package com.StockMaster.inventory_system.entity;
 
 import jakarta.persistence.*; // JPA annotations
-import com.StockMaster.inventory_system.entity.Supplier; // Import Supplier class
+
 
 @Entity
 public class Product {
